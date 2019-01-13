@@ -3,6 +3,7 @@
 // Ognard-Smague
 // 01/12/2018
 
+import library
 import Foundation
 import carteProtocol
 import champDeBatailleProtocol
